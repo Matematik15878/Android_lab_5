@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_5</string>
+    <string name="rotate">Повернути екран</string>
+    <string name="building_level">Будівельний рівень</string>
+</resources>
